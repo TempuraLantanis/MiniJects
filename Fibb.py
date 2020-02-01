@@ -22,4 +22,4 @@ def fibonacci(n):
         
 
 
-fibonacci(25)
+fibonacci(input)
